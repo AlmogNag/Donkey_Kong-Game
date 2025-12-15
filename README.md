@@ -83,8 +83,8 @@ Donkey_Kong/
 <img width="1001" height="651" alt="Screenshot 2025-12-15 104349" src="https://github.com/user-attachments/assets/95afa852-5192-4948-8b20-3b10938bbab7" />
 <img width="1002" height="630" alt="Screenshot 2025-12-15 104405" src="https://github.com/user-attachments/assets/efdefb5c-3767-4265-9543-2f660a0bcd95" />
 <img width="998" height="640" alt="Screenshot 2025-12-15 104419" src="https://github.com/user-attachments/assets/499608ed-a37a-4401-8679-afd357813ff5" />
-<img width="414" height="625" alt="Screenshot 2025-12-15 104502" src="https://github.com/user-attachments/assets/31456b5d-5d56-4265-ac28-ccb8399e2e32" />
 <img width="417" height="597" alt="Screenshot 2025-12-15 104628" src="https://github.com/user-attachments/assets/ebd309aa-1fec-4962-b78d-f62f48a51104" />
+<img width="414" height="571" alt="Screenshot 2025-12-15 104502" src="https://github.com/user-attachments/assets/197a96a7-6e31-4310-9236-a739861da8ab" />
 
 ## Future improvements
 - Implement a high-score table saved to a file.
