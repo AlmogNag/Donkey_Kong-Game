@@ -1,7 +1,3 @@
-Here is the README file for your Donkey Kong project, tailored to match the exact structure and style of your Bulls & Cows example.
-
-***
-
 # Donkey Kong — C++ Console Game
 
 A C++ Windows Console implementation of the classic arcade game "Donkey Kong."
